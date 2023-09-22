@@ -1,3 +1,4 @@
 # leetcode
-leet code exercises 
+leet code exercises resolutions
+see:
 https://leetcode.com/problems/
